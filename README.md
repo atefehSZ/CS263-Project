@@ -10,6 +10,6 @@ The `bert.ipynb` file contains the code needed to run the BERT model and trainin
 
 ## Datasets
 The following datasets are used in this project.
-1. [Wikisplit] (https://github.com/google-research-datasets/wiki-split)
-2. [All The News] (https://www.kaggle.com/snapcrack/all-the-news)
-3. [Stanford Sentiment Treebank] (https://nlp.stanford.edu/sentiment/index.html)
+1. [Wikisplit](https://github.com/google-research-datasets/wiki-split)
+2. [All The News](https://www.kaggle.com/snapcrack/all-the-news)
+3. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/index.html)
